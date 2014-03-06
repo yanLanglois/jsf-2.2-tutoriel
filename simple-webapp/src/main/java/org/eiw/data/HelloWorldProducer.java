@@ -17,6 +17,7 @@ public class HelloWorldProducer {
 	
 	@PostConstruct
 	public void initMessage() {
+		System.out.println("s<dfdsf");
 		message = "Hello world !";
 	}
 }
