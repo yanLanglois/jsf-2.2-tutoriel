@@ -7,9 +7,7 @@
     <artifactId>jsf22-tutoriel-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
-  <groupId>org.eiw.jsf22-tutoriel</groupId>
-  <artifactId>simple-webapp</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <artifactId>hello-world</artifactId>
   <packaging>war</packaging>
   <name>simple-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
