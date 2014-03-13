@@ -20,6 +20,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>simple-webapp</finalName>
+    <finalName>hello-world</finalName>
   </build>
 </project>
